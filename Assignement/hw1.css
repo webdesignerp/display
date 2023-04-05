@@ -1,0 +1,30 @@
+aside{
+    display: none;
+}
+header{
+    background: #a6a8a6;
+    color: #FFFFFF;
+}
+h1{
+    text-align: center;
+    font-family: serif;
+}
+
+section{
+    background: #808080;
+    font-family: serif;
+  /*  font-weight: 600; */
+    font-weight: bolder;
+    height: 60%;
+}
+a{
+    background: #D0CFCF;
+    color: #000000;
+    font-weight: 600;
+}
+h2{
+    color: #00008b;
+    text-transform: uppercase;
+    font-family:serif;
+    font-weight: 600;
+}
